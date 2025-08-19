@@ -1,0 +1,3 @@
+hi 
+im huzaifa
+todays lecture is file input / output
